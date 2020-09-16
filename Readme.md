@@ -4,3 +4,5 @@
 
 ### 具体操作参考
 https://blog.csdn.net/qq_33257527/article/details/88294016
+
+https://grafana.com/grafana/dashboards/4701
