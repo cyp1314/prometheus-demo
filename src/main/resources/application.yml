@@ -1,0 +1,13 @@
+server:
+  port: 12000
+spring:
+  application:
+    name: springboot-prometheus
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  metrics:
+    tags:
+      application: ${spring.application.name}
